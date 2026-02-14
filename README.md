@@ -5,29 +5,10 @@
 ### **📽️ 시연 영상**
 https://drive.google.com/file/d/13Jez_t-zlCY9VO-dskcfzjaCsl4pcMxr/view
 
-<br>
-
-### **🔖 프로젝트 개요**
-
 ---
 
-- 의류 E-commerce
-- Fashionista, anyone can be
+## **🔖 프로젝트 개요**
 
-<br>
-
-### **🎯 목표**
-
----
-
-- 대용량 트래픽에서 준수한 속도를 유지
-- 다수의 트랜잭션에서 동시성 처리 및 일관성 보장
-
-<br>
-
-
-
-<br>
 
 ### 🧑‍🤝‍🧑 팀 역할
 
@@ -35,7 +16,6 @@ https://drive.google.com/file/d/13Jez_t-zlCY9VO-dskcfzjaCsl4pcMxr/view
 
 ![image](https://github.com/user-attachments/assets/97fbfff2-ec90-4350-952c-7050890ae2a7)
 
-<br>
 
 ### **📚 기술 스택**
 
@@ -43,7 +23,6 @@ https://drive.google.com/file/d/13Jez_t-zlCY9VO-dskcfzjaCsl4pcMxr/view
 
 ![image](https://github.com/user-attachments/assets/e4fbaec5-dde3-48b4-9706-fba3f6fc3f36)
 
-<br>
 
 ### **🌏 서버 아키텍쳐**
 
@@ -51,7 +30,6 @@ https://drive.google.com/file/d/13Jez_t-zlCY9VO-dskcfzjaCsl4pcMxr/view
 
 ![image](https://github.com/user-attachments/assets/f4ff3c43-79f9-47f4-978a-34aab6a6b43f)
 
-<br>
 
 ### 🗺️ ERD
 
@@ -59,11 +37,8 @@ https://drive.google.com/file/d/13Jez_t-zlCY9VO-dskcfzjaCsl4pcMxr/view
 
 ![image](https://github.com/user-attachments/assets/d9ddd0fa-e303-4643-a723-b88219edd958)
 
-<br>
 
-<br>
-
-### **🔗주요 기능**
+## **🔗주요 기능**
 
 ---
 
@@ -102,11 +77,5 @@ https://drive.google.com/file/d/13Jez_t-zlCY9VO-dskcfzjaCsl4pcMxr/view
 - 리뷰에 대한 좋아요 기능을 제공합니다.
 - 최근 7일간 누적 좋아요가 많은 인기순위 Top 12를 조회할 수 있습니다.
 
-<br>
-
-### **🌈 개선 사항**
-
-
-### **🚀 트러블 슈팅**
 
 
